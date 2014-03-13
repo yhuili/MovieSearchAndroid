@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">I Watch</string>
+    <string name="mainPage">Movie Search</string>
+    <string name="hello">Movie Search</string>
+    <string name="hint_text">Search the movie title</string>
+    <string name="search">Search</string>
+    <string-array name="title_type">
+        <item>All Types</item>
+        <item>Feature Film</item>
+        <item>TV Series</item>
+        <item>Video Game</item>
+    </string-array>
+	<string name="secondPage">Movie Results</string>
+	<string name="details">Details</string>
+	<string name="facebook">Post to Facebook</string>
+	<string name="postTofacebook">Would you like to post the movie information on facebook?</string>
+</resources>
